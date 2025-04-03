@@ -3,7 +3,7 @@ title: Developer Docs
 image: ./docs/images/generated/sample_smiley_buttons.png
 ---
 
-MicroCode is open source at https://github.com/microsoft/microcode and welcomes contributions.
+MicroCode is open source at https://github.com/microbit-apps/microcode-classic and welcomes contributions.
 The easiest way to get started is to open this repository in a GitHub Codespace and everything will be ready for you.
 
 We recommend using [Visual Studio Code](https://code.visualstudio.com/) as it provides excellent support
@@ -11,7 +11,7 @@ for MakeCode editing, Git, and Codespaces.
 
 ## Codespaces setup
 
--   open [https://github.com/microsoft/microcode](https://github.com/microsoft/microcode)
+-   open [https://github.com/microbit-apps/microcode-classic](https://github.com/microbit-apps/microcode-classic)
 -   click on `Code` drop down and select `Create Codespace on main`
 -   you can do your editing from VS Code online or click on `Codespaces` in lower left and select `Open in VS Code` to use the desktop version (must be installed on your machine)
 -   press "Ctrl + `" to open a terminal and you're ready to go!
@@ -30,7 +30,7 @@ npm install -g -u makecode
 -   clone this repo
 
 ```bash
-git clone https://github.com/microsoft/microcode
+git clone https://github.com/microbit-apps/microcode-classic
 ```
 
 -   setup MakeCode project structure (one time only)
@@ -205,25 +205,3 @@ export PXT_RUNTIME_DEV=yes
 Make sure not to delete `projects/microcode/built` since it contains your sources.
 If possible, you can move `built/codal/libraries` folder somewhere else, and symlink it inside `built/codal`
 to avoid accidentally deleting it.
-
-## Contributing
-
-This project welcomes contributions and suggestions. Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.

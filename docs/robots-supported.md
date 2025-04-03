@@ -14,7 +14,7 @@ MicroCode supports the following [robots](./robot.md):
 -   [KittenBot Nanobit](#kittenbot-nanobit)
 -   [Yahboom Tiny:bit](#yahboom)
 
-Please file a [GitHub issue](https://github.com/microsoft/microcode/issues?q=is%3Aissue+is%3Aopen+label%3Arobot) if your robot is not listed.
+Please file a [GitHub issue](https://github.com/microbit-apps/microcode-classic/issues?q=is%3Aissue+is%3Aopen+label%3Arobot) if your robot is not listed.
 See [how to contribute](#contributing) for more information.
 
 ### DFRobot Maqueen V2+ {#dfrobot-maq}
@@ -106,7 +106,7 @@ This car is made with Jacdac modules, so only works with micro:bit V2:
 
 ### Contributing {#contributing}
 
-The source of the robot firmware are at [https://github.com/microsoft/microcode/tree/main/robot](https://github.com/microsoft/microcode/tree/main/robot). We accept pull request to add new robots.
+The source of the robot firmware are at [https://github.com/microbit-apps/microcode-classic/tree/main/robot](https://github.com/microbit-apps/microcode-classic/tree/main/robot). We accept pull request to add new robots.
 
 ### Hardware requirements
 
@@ -125,7 +125,7 @@ The following features are found often but are optional:
 
 ### How to prepare a pull request {#new-robot}
 
-To add a new robot to the list, prepare a pull request in [microsoft/microcode](https://github.com/microsoft/microcode) with:
+To add a new robot to the list, prepare a pull request in [microsoft/microcode](https://github.com/microbit-apps/microcode-classic) with:
 
 -   a new class extending `Robot` and configuring the hardware (see other robots)
 -   a global field instance instantiating the robot (see other robots)
