@@ -32,4 +32,4 @@ If your robot is not [listed](./robots-supported), follow the [instructions](./r
 
 ## Can I help?
 
-Yes! MicroCode is open source at https://github.com/microsoft/microcode.
+Yes! MicroCode is open source at https://github.com/microbit-apps/microcode-classic.

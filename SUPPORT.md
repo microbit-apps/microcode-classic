@@ -8,6 +8,3 @@ feature request as a new Issue.
 
 For help and questions about using this project, please use [MakeCode forums](https://forum.makecode.com/tags/c/experimental-features-early-access/60/microcode).
 
-## Microsoft Support Policy
-
-Support for MicroCode is limited to the resources listed above.

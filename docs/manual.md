@@ -27,7 +27,7 @@ All the above hardware can be [purchased](./purchase.md) from a variety of vendo
 
 Regardless of whether you are using the Arcade shield or web app, you first need to download the (localized) MicroCode hex file to your micro:bit V2. There are two ways to do this:
 
-1. visit the [web app](https://microsoft.github.io/microcode/) and follow directions to connect your micro:bit and [automatically download over WebUSB](#download)
+1. visit the [web app](https://microbit-apps.github.io/microcode-classic/) and follow directions to connect your micro:bit and [automatically download over WebUSB](#download)
 2. visit the [localization](#localization) section to _download_ the MicroCode hex file to your computer and copy to your micro:bit V2 (plugged into your computer via USB).
 
 ## Hands-on resources
@@ -86,7 +86,7 @@ MicroCode is community translated through Crowdin. Please read on [localization]
 
 <video class="sample" poster="./videos/smiley-buttons.png" src="./videos/smiley-buttons.mp4" controls="true"></video>
 
-The MicroCode web editor is at [https://microsoft.github.io/microcode/](https://microsoft.github.io/microcode/).
+The MicroCode web editor is at [https://microbit-apps.github.io/microcode-classic/](https://microbit-apps.github.io/microcode-classic/).
 We recommend using the keyboard navigation:
 
 -   `Left`, `Right`, `Up`, `Down` moves the cursor
@@ -147,7 +147,6 @@ in the upper left to select which slot to save the current program to. From the 
 
 {% include youtube.html id="mbF-HU9IZ-A" %}
 
--   Microsoft Garage for kick starting this project during the 2022 Microsoft Hackathon.
 -   [@loretod101](https://twitter.com/loretod101) on advising on accessibility features, including switch access support.
 -   [@BillSeiver](https://twitter.com/BillSiever) on feedback for tiles, including the `page start` tile
 -   [@eliseli\_](https://twitter.com/eliseli_) for the Spanish translation
@@ -156,5 +155,5 @@ in the upper left to select which slot to save the current program to. From the 
 
 -   Post your suggestions or questions at [https://forum.makecode.com/c/60](https://forum.makecode.com/c/60).
 
-This project is open source and welcomes contributions and suggestions at https://github.com/microsoft/microcode.
+This project is open source and welcomes contributions and suggestions at https://github.com/microbit-apps/microcode-classic.
 Read the [developer instructions](./develop.md).

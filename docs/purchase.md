@@ -17,7 +17,7 @@ of these other great programming environments:
 
 ## Tethered programming
 
-If you only have a micro:bit V2, you can still use MicroCode, but you need to use the [web app](https://microsoft.github.io/microcode/) and connect your micro:bit using a micro-USB cable.
+If you only have a micro:bit V2, you can still use MicroCode, but you need to use the [web app](https://microbit-apps.github.io/microcode-classic/) and connect your micro:bit using a micro-USB cable.
 
 ## KittenBot MicroCode product
 
