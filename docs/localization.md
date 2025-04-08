@@ -8,7 +8,7 @@ description: Instruction to help localize MicroCode
 
 You can point directly to a localized by doing `/<icodecode>` like `/fr` (case-sensitive).
 
-The list of supported languages is available in the [User Guide](./manual#localization).
+The list of supported languages is available in the [User Guide](./manual#hexfiles).
 
 ## Helping with translations
 

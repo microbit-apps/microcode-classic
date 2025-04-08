@@ -14,7 +14,7 @@ The MicroCode visual programming model is based on Kodu and targets children age
 -   [arcade shields](./purchase#arcade-shields) for the micro:bit V2 enable "on the go" programming with familiar game console controls
 -   kid-friendly, icon-based, structured code editor and [programming language](./language)
 -   lots of [sample programs](./samples) to get started
--   [translated](#localization) in 20+ languages
+-   [hex files](#hexfiles) in 20+ languages
 -   remote control a [micro:bit robot](./robot) using MicroCode
     to follow lines, avoid obstacles and more.
 -   extend and program your creation with [Jacdac accessories](#jacdac) (LEDs, servos, ...)
@@ -28,7 +28,7 @@ All the above hardware can be [purchased](./purchase.md) from a variety of vendo
 Regardless of whether you are using the Arcade shield or web app, you first need to download the (localized) MicroCode hex file to your micro:bit V2. There are two ways to do this:
 
 1. visit the [web app](https://microbit-apps.github.io/microcode-classic/) and follow directions to connect your micro:bit and [automatically download over WebUSB](#download)
-2. visit the [localization](#localization) section to _download_ the MicroCode hex file to your computer and copy to your micro:bit V2 (plugged into your computer via USB).
+2. visit the [hex files](#hexfiles) section to _download_ the MicroCode hex file to your computer and copy to your micro:bit V2 (plugged into your computer via USB).
 
 ## Hands-on resources
 
@@ -56,7 +56,7 @@ In this video, we launch an LED animation when a clap is detected.
 
 <video class="sample" poster="./videos/jacdac-led.png" src="./videos/jacdac-led.mp4" controls="true"></video>
 
-## Localization {#localization}
+## Localized hex files {#hexfiles}
 
 MicroCode is community translated through Crowdin. Please read on [localization](./localization) to get started.
 
