@@ -25,24 +25,33 @@ KittenBot recently introduced a [MicroCode Explorer Kit](https://www.kittenbot.c
 
 ## Arcade Shields for the micro:bit V2
 
-Three Arcade shields for the micro:bit V2 are available on the market today, as shown below:
+Four Arcade shields for the micro:bit V2 are available on the market today, as shown below:
 
 <table>
 <tr valign="top">
-<td width="33%" >
+<td width="25%" >
 <a href="https://www.kittenbot.cc/products/newbit-arcade-shield">
 Kittenbot's newbit Arcade shield
 </a>
-</td><td width="33%" >
+</td><td width="25%" >
 <a href="https://shop.elecfreaks.com/products/micro-bit-retro-programming-arcade">
 ELECFREAK's micro:bit Arcade shield
 </a>
 </td>
-<td width="33%" >
+<td width="25%" >
 <a href="https://www.icshop.com.tw/products/368112100137?locale=en">
 ICShopping's Game:bit Arcade shield
 </a>
-</td></tr>
+</td>
+
+<td width="25%" >
+<a href="https://forwardedu.com/products/codectrl-for-micro-bit">
+Forward Education's CodeCTRL shield
+</a>
+</td>
+
+
+</tr>
 <tr>
 <td>
 <a alt="Kittenbot's newbit Arcade shield" href="https://www.kittenbot.cc/products/newbit-arcade-shield">
@@ -52,11 +61,22 @@ ICShopping's Game:bit Arcade shield
 <a alt="ELECFREAK's micro:bit Retro Arcade shield" href="https://shop.elecfreaks.com/products/micro-bit-retro-programming-arcade">
 <img src="../assets/elecfreaks-shield.png">
 </a>
-</td><td>
+</td>
+
+<td>
 <a alt="ICShopping's Game:bit" href="https://www.icshop.com.tw/products/368112100137?locale=en">
 <img src="../assets/gamebit-shield.png">
 </a>
-</td></tr>
+</td>
+
+<td>
+<a alt="Forward Education's CodeCTRL" href="https://forwardedu.com/products/codectrl-for-micro-bit">
+<img src="../assets/CodeCTRL.png">
+</a>
+</td>
+
+
+</tr>
 <tr valign="top">
 <td>
 
@@ -74,6 +94,13 @@ Assembly required. Small screen. AAA Battery pack on back. One <a href="https://
 No assembly required. Large screen and 3d-printed enclosure with LiPo battery inside. Two <a href="https://aka.ms/jacdac">Jacdac</a> ports.
 
 </td>
+
+<td>
+
+No assembly required. Large screen and 3d-printed enclosure with LiPo battery inside. One <a href="https://aka.ms/jacdac">Jacdac</a> port.
+
+</td>
+
 </tr>
 
 </table>
